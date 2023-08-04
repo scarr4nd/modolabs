@@ -1,0 +1,19 @@
+---
+scarr:
+    password: '$2y$10$2YxTyg29j3jG4g/4RRCi5ui4rxeZ9LPfm3YBxEo0kB/810t7wJO4G'
+    attributes:
+        firstName: 'Savannah'
+        lastName: 'Carr'
+        name: 'Savannah Carr'
+        email: 'scarr@nd.edu'
+        year: 'Senior'
+
+jhan:
+    password: '$2y$10$2YxTyg29j3jG4g/4RRCi5ui4rxeZ9LPfm3YBxEo0kB/810t7wJO4G'
+    attributes:
+        firstName: 'Jisung'
+        lastName: 'Han'
+        name: 'Jisung Han'
+        email: 'jhan@nd.edu'
+        year: 'Senior'
+        
